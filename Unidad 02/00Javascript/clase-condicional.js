@@ -59,8 +59,12 @@ let edad4 = 20
 let mensaje = edad4 >= 18 ? 'Eres mayor de edad' : 'Eres menor de edad'
 console.log(mensaje)
 
-
-
-
+if(nombre === "Cristian"){
+    console.log('Hola Fer')
+} else if(nombre === "Cristian"){
+    console.log('Hola Cris')
+} else {
+    console.log('No encontre tu nombre')
+}
 
 

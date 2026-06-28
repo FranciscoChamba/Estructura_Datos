@@ -184,7 +184,7 @@ return -1;
 //            k++;
 //        }
 //    }
-    //TODO: Cual es el algortimo de optimizacion para 50000,75000,100000 de paquetes, optimizacion inicio,fin,envio
+    // Cual es el algortimo de optimizacion para 50000,75000,100000 de paquetes, optimizacion inicio,fin,envio
 
     public static void main(String[] args) {
         CentroDistribucion c = new CentroDistribucion();

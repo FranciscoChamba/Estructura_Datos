@@ -1,5 +1,5 @@
 let string = 'Hola, Mundo'
- let string2 = "Javascript es chevere!"
+let string2 = "Javascript es chevere!"
 let string3 = `${string} feliz :D`
 let string4 = string + ' ' + string2
 
